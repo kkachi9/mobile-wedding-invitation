@@ -78,7 +78,6 @@ Error generating stack: `+o.message+`
   box-sizing: border-box;
 `,kS={title:`김진현 💍 강은애
 결혼합니다!`,message:`저희 사랑의 결실을 맺습니다.
-
 서로를 따스히 감싸던 온기와
 서로에게 알맞은 마음으로 함께한 시간들
 부부로서 첫걸음을 내딛는 순간
